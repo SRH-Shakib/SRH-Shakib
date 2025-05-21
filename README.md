@@ -19,10 +19,8 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SRH-Shakib/osTicket-preReq)
-  - [osTicket: Post-Installation Configuration](https://github.com/SRH-Shakib/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SRH-Shakib/ticket-lifecycle)
+- <b>Self Hosted Ticketing System</b>
+  - [Host Your Own Helpdesk at Home Using Spare Hardware](https://github.com/SRH-Shakib/peppermint-helpdesk)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SRH-Shakib/configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SRH-Shakib/azure-network-protocol)
